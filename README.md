@@ -430,7 +430,8 @@ Successfully retrieves the secret and confirms that the application has received
 
 Password output is masked.
 
-![Secret Retrieval](screenshots/secret-retrieval.png)
+![Secret Retrieval] 
+<img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/93c2882c-ea3f-4ece-b10e-6cf01780ff89" />
 
 ---
 
